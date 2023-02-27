@@ -37,3 +37,12 @@ One of the pleasant ways to study technology is through implementing game applic
 If you missed the chance for the ball to bounce, then the game is over. This project is basically for beginners who are looking for a minor project. This simple project will surely help you with your first-year project or also as an implementation for fun purposes. 
 
 Technologies Required: Java, Game development, JFrame, JPanel, and Java Graphics Kit.
+
+3. Attendance Management System
+An attendance management system is one of the major projects for university-level graduates. The project can be built using Java, the MVC architecture could be followed, and Maven as a built tool. It uses MySQL as a backend for database management and uses a tomcat server to deploy the application in order to see it working live. 
+Various users of the application where users can access are:
+
+Admin
+Student
+Faculty
+Technologies Required: Java Servlet, MVC architecture, Maven MySQL, Tomcat Server JSP, HTML, CSS, and JavaScript.
