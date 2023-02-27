@@ -27,3 +27,13 @@ Sndcpy ...
 Termux Application ...
 Tsunami Security Scanner ...
 Signal Android
+
+1. Currency Converter 
+This project is a very basic project in Java that is used to convert a currency from one to another. A web-based interface for converting currency and getting the output value, for example, here displays converting the currency of the US dollar to other currrencies.
+
+2. Brick Breaker Game
+One of the pleasant ways to study technology is through implementing game applications. It may not be easy but developing this Java project will make you learn a lot of new things. This game development project will provide you with java experience and essential animation techniques with their integration. 
+
+If you missed the chance for the ball to bounce, then the game is over. This project is basically for beginners who are looking for a minor project. This simple project will surely help you with your first-year project or also as an implementation for fun purposes. 
+
+Technologies Required: Java, Game development, JFrame, JPanel, and Java Graphics Kit.
