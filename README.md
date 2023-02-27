@@ -125,7 +125,27 @@ This application is similar to a To-Do List app which helps you to complete your
 
 Technologies Required: Java, Android, XML, and Firebase.
 
+20. Supply Chain Management System
+Supply Chain Management System is a Java project for beginners where different operations such as inventory, storing, handling, and moving raw and finished goods to the final destination are completed. 
+
+Technologies Required: Java, JDBC, JSP, HTML, and MS-Access Database
+
+Intermediate Level Java Projects Ideas
+The below-given list consists of some intermediate-level Java project ideas which can be used as major projects by the students or professionals.
+21. Virtual Private Network (VPN) for an Office
+Virtual Private Network (VPN) developed using Java can be your minor or major project. It works the same as WAN (Wide Area Network), and provides a private network across the public, for example, the Internet. A point-to-point virtual connection through traffic encryption, virtual tunneling protocols, or dedicated connections. 
 
 
+Technologies Required: Java, Java Servlet, J2EE, Apache Tomcat Server, HTML, and JavaScript.
+
+22. Flappy Bird Game
+Flappy bird game is a very simple Java-based gaming app in which the main character (which is the bird) has to reach the final destination after crossing all the hurdles. The use of the swing component in Java is perfect in this case.
+
+Technologies Required: Java, Java Swing, Java AWT, and OOPS.
+
+23. Scientific Calculator in Java
+A Scientific calculator built using Java is a general-purpose application whose primary objective is to perform basic mathematical operations and also perform some essential and tricky solutions to trigonometric functions, logarithms, etc. 
+
+Technologies Required: Java, Java Swing, Java AWT, and OOPS.
 
 
