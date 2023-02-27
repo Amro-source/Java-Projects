@@ -70,3 +70,15 @@ Technologies Required: Java, Java Swing Library, MySQL JDBC Connector, MySQL Com
 8. Word Counter 
 A simple project for beginners is good to start. It can be built using Swing in Java. Here, the application tells you the no of words, the entered paragraph has. 
 Technologies Required: Java, Java Swing, Java Framework (JFrame), and Applet. 
+
+9. ATM Simulation System
+ATM simulation system is a simple Java project for beginners. It is a kind of personal banking system where users can perform various transactions like withdrawals, deposits, and checking the balance of the account in just one click. It has a Graphical User Interface (GUI) to make the process user-friendly. 
+
+Technologies Required: Java, J2EE, Apache Tomcat Web Server, and Oracle.
+
+10. Airline Reservation System
+This Java project is built to help the customers book tickets online, check the availability of seats, get the details of the flight arrival, select the class they want to choose, and departures reserve seats for national or international flights. 
+
+Technologies Required: Core Java, HTML, JavaScript, and SQL Database.
+
+
