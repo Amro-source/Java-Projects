@@ -46,3 +46,27 @@ Admin
 Student
 Faculty
 Technologies Required: Java Servlet, MVC architecture, Maven MySQL, Tomcat Server JSP, HTML, CSS, and JavaScript.
+
+4. Number Guessing Game
+This number guessing game is an easy project built on Java where the player has to guess a number given in between a range. If the guessed number is right, the player wins else, loses. It also has the concept of limited attempts where the player has to guess the number within the limited attempts given. 
+
+Technologies Required: Java Programming Language and Random Class in Java.
+
+5. Tic-Tac-Toe Game
+The Tic-Tac-Toe game application is a simple project developed using GUI (Graphical User Interface) in Java. It is very easy to understand and play, players generally prefer this kind of game when they’re bored and want something to play which is quick and easy.
+
+Technologies Required: Java, Java Swing, Java GUI (Graphical User Interface), and JFrame.
+
+6. Simple Banking Application
+Simple Banking Application is a simple Java project for beginners to start their career in coding. You’ll learn about Scanner class to take inputs, and the basics of strings, loops, methods, and conditional statements. Here, simple banking operations like deposit, withdrawal, checking balance, exit, etc. 
+
+Technologies Required: Java Programming Language, Oracle Database (if needed), and Java methods.
+
+7. Library Management System 
+Learning Management System, this project build on Java is a great way to update the record, monitor and add books, search for the required ones, taking care of the issue date and return date. It comes with basic features like creating a new record and updating and deleting it. 
+
+Technologies Required: Java, Java Swing Library, MySQL JDBC Connector, MySQL Community Server, and rs2xml.jar (used to display the data in a table format).
+
+8. Word Counter 
+A simple project for beginners is good to start. It can be built using Swing in Java. Here, the application tells you the no of words, the entered paragraph has. 
+Technologies Required: Java, Java Swing, Java Framework (JFrame), and Applet. 
