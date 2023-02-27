@@ -81,4 +81,41 @@ This Java project is built to help the customers book tickets online, check the 
 
 Technologies Required: Core Java, HTML, JavaScript, and SQL Database.
 
+11. Smart City Project (City Guide Project)
+Smart City is a web-based application built using Java. It stores details of a city and displays information about the city such as hotels, shopping marts, restaurants, tourist places, transportation modes, and also some general info. This acts as a guide to the new visitors.
+
+Technologies Required: Java, JDBC ODBC 2.0 drivers, Oracle Database, J2EE, AJAX, and XML.
+
+12. A Text-Based Adventure Game
+A Text-Based Adventure game, built using Java and Data Structures is an interesting game where the player follows the commands given to him. This web-based gaming app is often referred to as interactive fiction.  
+
+Technologies Required: Java programming language, Java objects and classes, and Array and Hashmaps.
+
+13. Grading System in Java
+This project built using Java is an important one to grade students based on their markings. It is the best project to start for beginners and has a GUI (Graphical User Interface) design. 
+
+Technologies Required: Java, Java Swing, MySQL Database, and JPanel.
+
+14. School Management System 
+The School Management System is a Java application that stores records of schools be it related to students, teachers, and staff. 
+
+Technologies Required: Java, MS Access database, Java Swing, Java Graphical User Interface (GUI), and JFrame.
+
+15. Pharmacy Management System
+Pharmacy Management System is a web-based application built using Java that offers you the facility to order medicines, consult doctors and keep track of all your orders online by just signing up with a registered mail id. 
+Technologies Required: Java, Java Swing, AWT, JDBC, and MySQL Database.
+
+16. Supermarket Billing System
+This web-based application is a Java project that is usually built for keeping the sales recording made on a daily basis. It uses a MySQL database for recording the data of the users, products, and orders made by the user (customer). 
+
+Technologies Required: Java, JDBC, MySQL Database, JSP, JavaScript, servlet, HTML and Ajax.
+
+17. Online Quiz Management System
+You must have definitely used this application during your school days when you were asked to attend an MCQ-based test. This Online Quiz Management System can be built using Java which contains different sections for questions, marks, and subjects.
+
+Technologies Required: Java, J2EE, MySQL Database, and JDBC.
+
+
+
+
 
