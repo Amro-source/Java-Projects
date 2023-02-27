@@ -115,6 +115,16 @@ You must have definitely used this application during your school days when you 
 
 Technologies Required: Java, J2EE, MySQL Database, and JDBC.
 
+18. HelpDesk Management System
+HelpDesk Management System built using Java, Servlet, and MySQL is a project made with the intention to help individuals raise a complaint regarding a ticket issued to them. It uses the MVC architecture design and Servlet can manage the request and response made. 
+
+Technologies Required: Java, J2EE, HTML, JavaScript, MySQL database, Tomcat Server, JDBC, and Servlet.
+
+19. Notes and Password Manager
+This application is similar to a To-Do List app which helps you to complete your daily tasks and keep track of ongoing tasks. It also has a password for the users to log in to keep the data secure. 
+
+Technologies Required: Java, Android, XML, and Firebase.
+
 
 
 
