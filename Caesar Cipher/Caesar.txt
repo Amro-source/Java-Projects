@@ -1,0 +1,18 @@
+java code that encrypts a text using caesar cipher
+
+import java.util.Scanner;
+public class CaesarCipher {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter a word: ");
+        String word = input.nextLine();
+
+        System.out.println("Enter an integer number: ");
+        int num = input.nextInt();
+
+        for (int i=0; i<word.length();i++){ //looping through the string and encrypting each letter of the string by adding num to it's ASCII code and modding it by 128 so that it can be displayed as a character on the keyboard, then printing out the encrypted string with all letters converted to their corresponding characters 
+            char c = word.charAt(i); //c is equal to each individual letter in the original string 
+            if (Character.isLetter(c)){ //if statement checks if c is a letter or not, if its not then just print out c without changing anything 
+                char d = (char)(((int)c + num - 65) % 26 + 65); //d is equal to c plus num minus 65 so that we can add this value to any lowercase/uppercase alphabetical character and get back an equivalent uppercase/lowercase alphabetical character which will be added back later in our program 
+                System.out .print(d);//prints out d which is now our encrypted version of our original text using caesar cipher  				} else {System .print(c);}//this prints out whatever was originally there before because no change was made due to being non-letter characters such as punctuation marks etc...   }   }

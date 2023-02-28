@@ -1,0 +1,15 @@
+public static void main(String[] args) {
+
+        //initialize random number generator
+        Random rand = new Random();
+
+        int die1;
+        int die2;
+
+        //generate two random numbers between 1 and 6 inclusive
+        die1 = rand.nextInt(6) + 1;   //add one to avoid zero value
+        die2 = rand.nextInt(6) + 1;   //add one to avoid zero value
+
+        System.out.println("You rolled a " + die1);  //output first dice roll result
+        System.out.println("You rolled a " + die2);  //output second dice roll result
+    }//end of main method*/

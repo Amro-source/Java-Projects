@@ -1,0 +1,26 @@
+.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class DiceTextGame extends Application {
+
+    private static final int NUM_DICE = 2; // number of dice in play
+
+    private TextField[] diceTF = new TextField[NUM_DICE]; // the text fields for showing each die's value
+
+    // methods to change the value of the two dice and update their display values.   You'll need these.
+
+     /** Returns a random integer between 1 and 6, inclusive. */
+    public static int rollDie() { return (int)(Math.random()*6)+1; }
+
+    /** Changes the value of both dice by rolling them once each, then updating their displays accordingly.*/
+    public void rollBothDice() { 	// TODO: fill this in!  Hint: call rollDie twice, store those results in temp variables, then set the display values appropriately using setDisplayValue(...) method below...}
+
+        int d1=rollDie();		// TODO: replace this with your code!   Remember that you can use "this" to refer to instance variables here...}
+        int d2=rollDie();		// TODO: replace this with your code!   Remember that you can use "this" to refer to instance variables here...}
+
+        setDisplayValue(0,d1);	// TODO: replace this with your code!   Remember that you can use "this" to refer to instance variables here...}
+        setDisplayValue(1,d2);	// TODO: replace this with your code!   Remember that you can use "this" to refer to instance variables here...}
+
+         }       // end method rollBothDice() which changes both die values and updates their displays accordingly. The parameter is unused but required by JavaFX so we have it left empty for now.... Note also that we don't need any parameters at all when calling our own methods above - they are called automatically when needed as part of our application logic!! See http://docs.oracle.com/javafx/2/api/javafx/application/ApplicationBaseClasses-package-summary.html#onStartup%28java%3Ajavafx%3Astage%3AStage%29 for details on how JavaFX
