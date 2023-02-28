@@ -143,9 +143,151 @@ Flappy bird game is a very simple Java-based gaming app in which the main charac
 
 Technologies Required: Java, Java Swing, Java AWT, and OOPS.
 
+
+
 23. Scientific Calculator in Java
 A Scientific calculator built using Java is a general-purpose application whose primary objective is to perform basic mathematical operations and also perform some essential and tricky solutions to trigonometric functions, logarithms, etc. 
 
 Technologies Required: Java, Java Swing, Java AWT, and OOPS.
+
+24. Simple Search Engine
+You search for anything using a search engine so building a simple search engine can be one of the best projects. Applying a ranking algorithm can give better results.
+
+Technologies Required: Java, Java Servlet, Oracle or SQL Database, JDBC, Apache Tomcat, and JSP.
+
+25. Online Voting System
+An online Voting System built using JSP and Servlet can be the best project for college students. This project is designed to automate the voting process where multiple parties are added and then with the maximum votes, a leader is chosen. 
+
+Technologies Required: Java, JSP, HTML, CSS, MySQL, and Tomcat Apache Server.
+
+
+26. Online Book Store 
+Online Book Store is an application that displays lists of books available in the store where you can purchase or even return them. You can check for the value of the book and buy it by sitting in your comfort place. 
+
+Technologies Required: Java, HTML, CSS, JavaScript, Java Servlet, MySQL, and Tomcat server. 
+
+27. CGPA Calculator in Java
+This CGPA Calculator built using Java is a web-based application that is of great help to university students. It can be built as a major project during your college days. 
+
+Technologies Required: Java, HTML, CSS, JavaScript, JSP, Java Servlet, MVC, Maven, MySQL, and Tomcat server.
+
+28. Snake Game in Java
+Remember, those days when you used to play the snake game on Nokia mobile phones. This snake game can be implemented fully using Java and uses a database using MySQL. It has all the functionalities with a full-featured Graphical User Interface (GUI). 
+
+Technologies Required: Java, MySQL Database, JDBC, Java AWT, J-Frame, and Java Swing.
+
+29. Job Portal in Java 
+One thing which comes to your mind when you complete your graduation is getting a job. So, building a job portal for individuals where after entering the qualifications, the user gets the opportunity to enroll himself/herself for the job preferred. 
+
+Technologies Required: Java, HTML, CSS, JavaScript, JSP, Java Servlet, MySQL Database, and Tomcat server.
+30. Online Cab Booking System 
+Ola and Uber are the online cab booking system that almost every one of us has become used. So building such a Java application would be the best idea. 
+Technologies Required: Java, HTML, CSS, JavaScript, JSP, JDBC, Java Spring, Java Servlet, MySQL, and Tomcat Server.
+
+31. Crime Records Management System
+Based on the number of crimes being committed, this crime record management system is a secured application built using Java. It allows you to keep a record of the entries made of the number of crimes being committed. 
+
+Technologies Required: Java, JSP, JDBC, MySQL, and Tomcat Server.
+32. Color Hunt Gaming Project
+This Java-based gaming application is a mind game consisting of differently-colored letters which are randomly arranged. It is a kind of mind game that is built with the intention to increase your thought process. 
+Technologies Required: Java, Android, and XML.
+
+33. Online CV/Resume Builder
+You’re ready to apply for a job but don’t have an interesting CV/which perfectly shows your skills and qualifications. Online CV/Resume Builder comes to the rescue where just by entering required details you’ll get your CV/Resume in pdf format which is auto-generated. 
+
+Technologies Required: Java, MySQL Database, JDBC, Java Servlet, JSP, and Tomcat Server.
+
+34. Weather Information System
+This application tells you the weather-related information about your location and also of other locations. This Java-based application can be the best project for your minor project submission.
+
+Technologies Required: Java, Java Servlet, J2EE, Tomcat Server, HTML, CSS, and JavaScript.
+
+35. Exam Seating Arrangement System
+Exam Seating Arrangement System, the application implemented using JSP, Java, and MySQL. This application will help the examination handling manager to organize the allocation of seats for all the students. 
+
+Technologies Required: Java, HTML, CSS, JSP, JavaScript, MySQL, and Tomcat Server.
+
+36. Traffic Controller System
+The Traffic Controller System is a Java JSP and MySQL-based project, which is developed for process automation of the Traffic Controller System.
+
+Technologies Required: Java, HTML, CSS, JSP, JavaScript, MySQL, and Tomcat Server.
+
+37. Disaster Management System
+Disaster Management System is a Java-based application that identifies and implements techniques for reducing the causes of the disaster and the losses faced. It can be the best project to avoid natural disasters. 
+
+Technologies Required: Java, Java Swing, JSP, JDBC, MySQL, and Java Servlet.
+
+38. I-D Card Generator System
+ID Card Generator System is a web-based Java project which uses the Swing library. It generates an ID of the entered details of the individuals and gives you a copy of it. 
+Technologies Required: Java, Java Servlet, Java Swing, JSP, HTML, CSS, JavaScript, JDBC, MySQL, and Tomcat Server.
+
+39. Memory Game – Flipping Tiles
+Memory Game is a mind game where you have to remember the position of tiles placed earlier and re-assign them within the stipulated time. This game is implemented to play with your mind and bring the best.
+
+Technologies Required: Java, Java Swing, Java OOPS, and ArrayLists in Java.
+
+40. Chat Application
+Chat application has gained great popularity among individuals these days. This is similar to Instagram, Facebook, and Orkut. 
+f
+Technologies Required: Java, Java Swing toolkit, MySQL, Java AWT, and JDBC. 
+
+Advanced Level Java Projects Ideas
+The below-given list consists of some advanced-level Java project ideas which can be used as major projects by the students or professionals.
+
+41. Social Networking Site
+Social Networking Site has gained a lot of popularity among individuals. It is Java JSP and MySQL project, running on the tomcat server. The management of users, photos, and videos are taken care of by this system. 
+
+fTechnologies Required: Java, Maven, J2EE, HTML, CSS, Java Servlet, JDBC, MySQL, and Tomcat Server.
+
+42. Bug Tracking System
+A system that keeps track of bugs that occurred during the development of a project. This Java-based application is created to help developers to manage bugs/errors occurring during SDLC. 
+
+Technologies Required: Java, JDBC, JNDI, Servlets, JSP, Oracle/Access, RetHat JBoss AS, JavaScript, HTML, and CSS.
+
+43. Text Editor in Java
+Text Editor built using Java is similar to a notepad application. You can also create text documents and the system gives you the feature to edit the text entered in it. 
+
+Technologies Required: Java, Java Swing, Java AWT, JTextArea, JMenuBar, JMenu, and JMenuItems.
+
+44. Digital Steganography
+Security is a major concern be it in organizations, military, hospitals, schools, etc where data plays an important role. Keeping the data secure is much needed and here is a Java-based project for advanced programmers which is digital steganography. 
+
+Technologies Required: Java, Java Servlet, MySQL or Oracle Database, JDBC, TomCat Server, JSP, HTML, CSS, and JavaScript.
+
+45. Criminal Face Detection System
+The Criminal Face Detection System application is built to detect the faces of criminals by matching them with the pre-existing data in the database. Although, there are so many ways to identify a criminal this could be the best way, and also building this project for advanced programmers is easy.
+
+Technologies Required: TensorFlow, Core java, Machine learning, SQlite, OpenCV(eccentric tool), Strong knowledge of advanced java concepts
+
+46. Airline Reservation System with Advanced Features
+With the increase in modernization, everything has come online. This application helps customers book flight tickets by just being at their comfort place and also searching for the availability, and timing of the flight. 
+
+Technologies Required- Core Java, Java Swing, Java AWT, Java Applet, Database-MySQL  
+
+47. Advanced Chatting Application 
+When everything has come online, chatting is also performed online be it your online friends or anyone. Hence, this advanced chatting application has advanced features like smooth communication with video and audio call facilities, and many more.
+
+Technologies Required: Core Java, Java Network-based libraries, Java Sockets, File handling, and Exception Handling.
+
+48. Customer-Relationship Manager 
+It is a bit tedious but an easy pick among advanced-level java projects. It is also one of the most important projects as CRN is used by nearly all organizations, institutions,s or any software company as well to keep updated with the records. Do not confuse it with working just with awt and core java, as here we need to fetch it over a larger dataset in real-time for which we need to inculcate tools like Hibernate, MVC, CSS, JDBC, etc. Do create in a high-tech way invoking the above tools so that internal working of such tools can be perceived
+
+Technologies Required: Spring Framework, Hibernate, HTML, CSS, JDBC, CRUD, MVC, and DB(MySQL) 
+
+49. Email System
+A great medium to conversate in an official way is through e-mails. Email system implemented using Java is of great value to organizations. So, advanced programmers can focus on the implementation of this project 
+
+The project functions something like this – the ISP’s (Internet Service Provider) mail server handles the emails sent from an ISP. All the sent emails first come to the mail server, after which they are processed and forwarded to the collector’s destination where another mail server is located.
+
+The mail server on the collector side receives the incoming emails and sorts them electronically in the inbox. Now, the recipient can use their email application to view the received emails. The entire transaction occurs by directly connecting to the mail server through the program, which makes it much safer than the existing email client so
+
+Technologies Required: Event Handler, HTTP, Protocols (like SMTP and POP3), 
+
+50.  Advance Sudoku Game 
+Sudoku Game is something which almost every one of us must have played. This game is all related to logic-building so once you play this, it gets easy for you to build logic so building this application is of great use.
+
+
+
+
 
 
